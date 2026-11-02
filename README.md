@@ -3,7 +3,7 @@ About terrio-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/terrio-feedstock/blob/main/LICENSE.txt)
 
-Home: https://terrio.opengeos.org/
+Home: https://terrio.dev/
 
 Package license: MIT
 
@@ -11,7 +11,7 @@ Summary: Pure-Rust geospatial raster, vector and point cloud data I/O, without G
 
 Development: https://github.com/opengeos/terrio
 
-Documentation: https://terrio.opengeos.org/
+Documentation: https://terrio.dev/
 
 terrio reads, writes, converts and reprojects the geospatial raster, vector and point cloud
 formats most workflows use, in pure Rust and without GDAL. This package provides its Python
