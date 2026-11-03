@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   name: terrio
-  version: "0.6.1"
+  version: "0.7.0"
   python_min: "3.12"
 
 package:
@@ -11,7 +11,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/${{ name[0] }}/${{ name }}/${{ name }}-${{ version }}.tar.gz
-  sha256: 73dba8e9590b8ca86529fbe402561956209e6b451755bb3925659607bfd92a35
+  sha256: 1455dab33400197e96ff0c2df4ef10a9033472d540becddb6520ff39c37e575b
 
 build:
   number: 0
